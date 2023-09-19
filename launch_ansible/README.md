@@ -1,5 +1,4 @@
 <h1> Launching Ansible</h1>
-----------------------------------
 
 * Lauching 3 servers with Terraform on AWS
 
