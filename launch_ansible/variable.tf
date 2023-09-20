@@ -9,7 +9,7 @@ variable "sg-name" {
   
 }
 
-variable "keypair-name" {
+variable "kpair-name" {
     type = "string"
     default = "ansible-key"
   
